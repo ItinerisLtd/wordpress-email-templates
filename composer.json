@@ -1,0 +1,10 @@
+{
+    "name": "itinerisltd/email-templates",
+    "type": "wordpress-plugin",
+    "description": "fork from https://github.com/timersys/wordpress-email-templates",
+    "license": "GPL-2.0-or-later",
+    "conflict": {
+        "wpackagist-plugin/email-templates": "*"
+    }
+}
+
